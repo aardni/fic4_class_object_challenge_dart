@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Arbian Indra Musafak - task from Flutter Intensive Club batch 4
+jawaban ada di folder bin
